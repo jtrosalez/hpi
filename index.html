@@ -32,6 +32,10 @@ $(document).ready(function(){
 			dropdown.append($('<option></option>').attr('value',entry.NAME).text(entry.NAME));
 		});
 	});
-	$('input:radio[name="geo"]').change(function(){var checked=this.value; console.log(checked);});
+	$('input:radio[name="geo"]').change(function(){
+		var checked=this.value; 
+		console.log(checked);
+		window.location.href = window.location.href + "?geo="+ checked;
+	});
 });
 </script>
