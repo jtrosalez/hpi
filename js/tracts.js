@@ -1,4 +1,8 @@
 $(document).ready(function(){
+url=window.location.search;
+var param=url.replace("?geo=","");
+
+if(param==1 || param==""){
 	/*Initiate the map*/
     var map = new Datamap({
       element: document.getElementById('container'),
@@ -51,4 +55,5 @@ $(document).ready(function(){
 	/*d3.select("container").append("p")
 		.attr("id","attribution")
 		.html( "Basemap data &copy; <a href='http://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> and <a href='http://www.naturalearthdata.com/' target='_blank'>Natural Earth</a>." );*/
+}
 });
