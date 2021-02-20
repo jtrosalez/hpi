@@ -14,7 +14,7 @@ if(param==2){
 
 		}*/
       },
-      scope: "subunits",
+      scope: "Features",
 	  fills: {
 		'defaultFill': 'grey',
 		1: '#bdd7e7',
