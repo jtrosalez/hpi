@@ -6,7 +6,7 @@ $(document).ready(function(){
       geographyConfig: {
         dataUrl: 'maps/caTracts.json',
 		popupTemplate: function(geography, data){
-			  return '<div class=hoverinfo><strong>' + data.tractName + '</strong><div><b>County: </b>' + data.countyName + '</div><div><b>HPI Score: </b>' + data.pctile + '</div></div>';
+			  return '<div class=hoverinfo><div><b>HPI Score: </b>' + data.pctile + '</div>';
 
 		}
       },
