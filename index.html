@@ -20,7 +20,7 @@ $(document).ready(function(){
 	dropdown.append('<option selected="true" disabled>Zoom to a County</option>');
 	dropdown.prop('selectedIndex',0);
 	
-	$getJSON('json/centroids.json', function(data){
+	$.getJSON('json/centroids.json', function(data){
 		$.each(data, function(key,entry){
 			dropdown.append($('<option></option>').attr('value',entry.NAME).text(entry.NAME));
 		});
