@@ -14,7 +14,7 @@ if(param==2){
 
 		}*/
       },
-      scope: "counties",
+      scope: "CA_counties",
 	  fills: {
 		'defaultFill': 'grey',
 		1: '#bdd7e7',
