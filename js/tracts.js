@@ -6,7 +6,7 @@ $(document).ready(function(){
       geographyConfig: {
         dataUrl: 'maps/caTracts.json',
 		popupTemplate: function(geography, data){
-			  return '<div class=hoverinfo><strong>' + data.tractName + '</strong><div><b>County: </b>' + data.countyName + '</div><div><b>Percent of Population Below Poverty, 2016: </b>' + data.povPer + '</div></div>';
+			  return '<div class=hoverinfo><strong>' + data.tractName + '</strong><div><b>County: </b>' + data.countyName + '</div><div><b>HPI Score: </b>' + data.pctile + '</div></div>';
 
 		}
       },
@@ -20,8 +20,8 @@ $(document).ready(function(){
 		'30% and above': '#08519c',
 		'Insufficient data':'grey'
 	  },
-	  dataUrl:'https://map.healthyplacesindex.org/data/tracts/hpi2score',
-	  dataType:'json',
+	  dataUrl:'csv/tracts.csv',
+	  dataType:'csv',
       setProjection: function(element, options) {
          var projection = d3.geo.mercator()
            .center([-119.417931, 36.778259])
