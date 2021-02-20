@@ -13,11 +13,10 @@ $(document).ready(function(){
       scope: "tracts",
 	  fills: {
 		'defaultFill': 'grey',
-		'Below 5%': '#eff3ff',
-		'5% to 9%': '#bdd7e7',
-		'10% to 19%': '#6baed6',
-		'20% to 29%': '#3182bd',
-		'30% and above': '#08519c',
+		'1': '#eff3ff',
+		'2': '#bdd7e7',
+		'3': '#6baed6',
+		'4': '#3182bd',
 		'Insufficient data':'grey'
 	  },
 	  dataUrl:'csv/tracts.csv',
