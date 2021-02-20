@@ -1,4 +1,4 @@
-name,id,fips,val,pctile,fillKey
+name,subunits,fips,val,pctile,fillKey
 Sierra,06091,91,-0.942598343,0,1
 Merced,06047,47,-0.505672574,1.8,1
 Fresno,06019,19,-0.483650357,3.6,1
