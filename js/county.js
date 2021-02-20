@@ -14,7 +14,7 @@ if(param==2){
 
 		}*/
       },
-      scope: "usa",
+      scope: "features",
 	  fills: {
 		'defaultFill': 'grey',
 		1: '#bdd7e7',
