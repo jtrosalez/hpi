@@ -1,5 +1,9 @@
 $(document).ready(function(){
+url=window.location.search;
+var param=url.replace("?geo=","");
 
+if(param==2){
+	$("#geo2").prop("checked",true);
 	/*Initiate the map*/
     var map = new Datamap({
       element: document.getElementById('container'),
@@ -49,4 +53,5 @@ $(document).ready(function(){
     });
 	
 	//map.legend({legendTitle:"Percent of Population Below Poverty, 2016 by Census Tracts"});
+}
 });
