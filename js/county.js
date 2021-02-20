@@ -23,8 +23,8 @@ if(param==2){
 		4: '#08519c',
 		'Insufficient data':'grey'
 	  },
-	  dataUrl:'csv/county.csv',
-	  dataType:'csv',
+	  dataUrl:'csv/county.json',
+	  dataType:'json',
       setProjection: function(element, options) {
          var projection = d3.geo.mercator()
            .center([-119.417931, 36.778259])
