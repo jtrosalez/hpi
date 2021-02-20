@@ -1,0 +1,350 @@
+[
+ {
+   "NAME": "Siskiyou",
+   "Type": "County",
+   "Long": -122.5364982,
+   "Lat": 41.58840725
+ },
+ {
+   "NAME": "Del Norte",
+   "Type": "County",
+   "Long": -123.890022,
+   "Lat": 41.74004868
+ },
+ {
+   "NAME": "Modoc",
+   "Type": "County",
+   "Long": -120.7206443,
+   "Lat": 41.58434456
+ },
+ {
+   "NAME": "Humboldt",
+   "Type": "County",
+   "Long": -123.8637213,
+   "Lat": 40.69899828
+ },
+ {
+   "NAME": "Trinity",
+   "Type": "County",
+   "Long": -123.1040176,
+   "Lat": 40.64754081
+ },
+ {
+   "NAME": "Shasta",
+   "Type": "County",
+   "Long": -122.0363525,
+   "Lat": 40.75840138
+ },
+ {
+   "NAME": "Lassen",
+   "Type": "County",
+   "Long": -120.5898736,
+   "Lat": 40.66935811
+ },
+ {
+   "NAME": "Tehama",
+   "Type": "County",
+   "Long": -122.2248324,
+   "Lat": 40.11985541
+ },
+ {
+   "NAME": "Plumas",
+   "Type": "County",
+   "Long": -120.8386478,
+   "Lat": 40.00212063
+ },
+ {
+   "NAME": "Butte",
+   "Type": "County",
+   "Long": -121.5929039,
+   "Lat": 39.66214977
+ },
+ {
+   "NAME": "Mendocino",
+   "Type": "County",
+   "Long": -123.3787527,
+   "Lat": 39.43718109
+ },
+ {
+   "NAME": "Glenn",
+   "Type": "County",
+   "Long": -122.3825248,
+   "Lat": 39.59703605
+ },
+ {
+   "NAME": "Sierra",
+   "Type": "County",
+   "Long": -120.5053229,
+   "Lat": 39.57770349
+ },
+ {
+   "NAME": "Yuba",
+   "Type": "County",
+   "Long": -121.3410525,
+   "Lat": 39.26727223
+ },
+ {
+   "NAME": "Lake",
+   "Type": "County",
+   "Long": -122.746033,
+   "Lat": 39.09812912
+ },
+ {
+   "NAME": "Nevada",
+   "Type": "County",
+   "Long": -120.7594556,
+   "Lat": 39.29654609
+ },
+ {
+   "NAME": "Colusa",
+   "Type": "County",
+   "Long": -122.2328096,
+   "Lat": 39.17913684
+ },
+ {
+   "NAME": "Placer",
+   "Type": "County",
+   "Long": -120.7101907,
+   "Lat": 39.06026787
+ },
+ {
+   "NAME": "Sutter",
+   "Type": "County",
+   "Long": -121.6882005,
+   "Lat": 39.03361022
+ },
+ {
+   "NAME": "El Dorado",
+   "Type": "County",
+   "Long": -120.5175223,
+   "Lat": 38.7752063
+ },
+ {
+   "NAME": "Yolo",
+   "Type": "County",
+   "Long": -121.8973701,
+   "Lat": 38.68694102
+ },
+ {
+   "NAME": "Alpine",
+   "Type": "County",
+   "Long": -119.8169696,
+   "Lat": 38.59448271
+ },
+ {
+   "NAME": "Napa",
+   "Type": "County",
+   "Long": -122.3274117,
+   "Lat": 38.50777422
+ },
+ {
+   "NAME": "Sonoma",
+   "Type": "County",
+   "Long": -122.8878053,
+   "Lat": 38.52815252
+ },
+ {
+   "NAME": "Sacramento",
+   "Type": "County",
+   "Long": -121.3184265,
+   "Lat": 38.46550658
+ },
+ {
+   "NAME": "Mono",
+   "Type": "County",
+   "Long": -118.8836474,
+   "Lat": 37.9331125
+ },
+ {
+   "NAME": "Amador",
+   "Type": "County",
+   "Long": -120.6446715,
+   "Lat": 38.4421067
+ },
+ {
+   "NAME": "Calaveras",
+   "Type": "County",
+   "Long": -120.5447212,
+   "Lat": 38.20165543
+ },
+ {
+   "NAME": "Tuolumne",
+   "Type": "County",
+   "Long": -119.9474287,
+   "Lat": 38.02470032
+ },
+ {
+   "NAME": "Marin",
+   "Type": "County",
+   "Long": -122.7202011,
+   "Lat": 38.07305449
+ },
+ {
+   "NAME": "San Joaquin",
+   "Type": "County",
+   "Long": -121.2628075,
+   "Lat": 37.93468445
+ },
+ {
+   "NAME": "Solano",
+   "Type": "County",
+   "Long": -121.9126891,
+   "Lat": 38.28910969
+ },
+ {
+   "NAME": "Contra Costa",
+   "Type": "County",
+   "Long": -121.9118696,
+   "Lat": 37.91322503
+ },
+ {
+   "NAME": "Stanislaus",
+   "Type": "County",
+   "Long": -120.9908905,
+   "Lat": 37.55507903
+ },
+ {
+   "NAME": "Alameda",
+   "Type": "County",
+   "Long": -121.8775366,
+   "Lat": 37.64275382
+ },
+ {
+   "NAME": "Mariposa",
+   "Type": "County",
+   "Long": -119.8981354,
+   "Lat": 37.57574509
+ },
+ {
+   "NAME": "San Francisco",
+   "Type": "County",
+   "Long": -122.4301026,
+   "Lat": 37.74670026
+ },
+ {
+   "NAME": "Madera",
+   "Type": "County",
+   "Long": -119.7460694,
+   "Lat": 37.21298745
+ },
+ {
+   "NAME": "San Mateo",
+   "Type": "County",
+   "Long": -122.3221847,
+   "Lat": 37.42439845
+ },
+ {
+   "NAME": "Merced",
+   "Type": "County",
+   "Long": -120.7044101,
+   "Lat": 37.18702646
+ },
+ {
+   "NAME": "Fresno",
+   "Type": "County",
+   "Long": -119.641139,
+   "Lat": 36.7542967
+ },
+ {
+   "NAME": "Santa Clara",
+   "Type": "County",
+   "Long": -121.6833781,
+   "Lat": 37.22731917
+ },
+ {
+   "NAME": "Inyo",
+   "Type": "County",
+   "Long": -117.4064861,
+   "Lat": 36.50850616
+ },
+ {
+   "NAME": "Santa Cruz",
+   "Type": "County",
+   "Long": -121.9847782,
+   "Lat": 37.05471421
+ },
+ {
+   "NAME": "San Benito",
+   "Type": "County",
+   "Long": -121.061087,
+   "Lat": 36.60584124
+ },
+ {
+   "NAME": "Monterey",
+   "Type": "County",
+   "Long": -121.2285748,
+   "Lat": 36.21776001
+ },
+ {
+   "NAME": "Tulare",
+   "Type": "County",
+   "Long": -118.793141,
+   "Lat": 36.22067724
+ },
+ {
+   "NAME": "Kings",
+   "Type": "County",
+   "Long": -119.803373,
+   "Lat": 36.07851908
+ },
+ {
+   "NAME": "Kern",
+   "Type": "County",
+   "Long": -118.7305113,
+   "Lat": 35.34527144
+ },
+ {
+   "NAME": "San Bernardino",
+   "Type": "County",
+   "Long": -116.1759926,
+   "Lat": 34.84387259
+ },
+ {
+   "NAME": "San Luis Obispo",
+   "Type": "County",
+   "Long": -120.4001413,
+   "Lat": 35.38883757
+ },
+ {
+   "NAME": "Ventura",
+   "Type": "County",
+   "Long": -119.0761089,
+   "Lat": 34.47217987
+ },
+ {
+   "NAME": "Riverside",
+   "Type": "County",
+   "Long": -115.9941376,
+   "Lat": 33.74437476
+ },
+ {
+   "NAME": "Santa Barbara",
+   "Type": "County",
+   "Long": -120.0128358,
+   "Lat": 34.67197144
+ },
+ {
+   "NAME": "Orange",
+   "Type": "County",
+   "Long": -117.7566693,
+   "Lat": 33.70398512
+ },
+ {
+   "NAME": "San Diego",
+   "Type": "County",
+   "Long": -116.7386948,
+   "Lat": 33.03619366
+ },
+ {
+   "NAME": "Los Angeles",
+   "Type": "County",
+   "Long": -118.2225598,
+   "Lat": 34.32209948
+ },
+ {
+   "NAME": "Imperial",
+   "Type": "County",
+   "Long": -115.3663522,
+   "Lat": 33.03983803
+ }
+]
