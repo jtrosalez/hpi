@@ -1,398 +1,398 @@
 {
    "Sierra": {
-      "id": 6091,
+      "geoid": 6091,
       "fips": 91,
       "val": -0.942598343,
       "pctile": 0,
       "fillKey": 1
    },
    "Merced": {
-      "id": 6047,
+      "geoid": 6047,
       "fips": 47,
       "val": -0.505672574,
       "pctile": 1.8,
       "fillKey": 1
    },
    "Fresno": {
-      "id": 6019,
+      "geoid": 6019,
       "fips": 19,
       "val": -0.483650357,
       "pctile": 3.6,
       "fillKey": 1
    },
    "Tulare": {
-      "id": 6107,
+      "geoid": 6107,
       "fips": 107,
       "val": -0.457659125,
       "pctile": 5.4,
       "fillKey": 1
    },
    "Imperial": {
-      "id": 6025,
+      "geoid": 6025,
       "fips": 25,
       "val": -0.452673465,
       "pctile": 7.1,
       "fillKey": 1
    },
    "Kings": {
-      "id": 6031,
+      "geoid": 6031,
       "fips": 31,
       "val": -0.436198264,
       "pctile": 8.9,
       "fillKey": 1
    },
    "Lake": {
-      "id": 6033,
+      "geoid": 6033,
       "fips": 33,
       "val": -0.425476253,
       "pctile": 10.7,
       "fillKey": 1
    },
    "Kern": {
-      "id": 6029,
+      "geoid": 6029,
       "fips": 29,
       "val": -0.415892154,
       "pctile": 12.5,
       "fillKey": 1
    },
    "Del Norte": {
-      "id": 6015,
+      "geoid": 6015,
       "fips": 15,
       "val": -0.393956363,
       "pctile": 14.3,
       "fillKey": 1
    },
    "Madera": {
-      "id": 6039,
+      "geoid": 6039,
       "fips": 39,
       "val": -0.391275704,
       "pctile": 16.1,
       "fillKey": 1
    },
    "Yuba": {
-      "id": 6115,
+      "geoid": 6115,
       "fips": 115,
       "val": -0.370130509,
       "pctile": 17.9,
       "fillKey": 1
    },
    "Glenn": {
-      "id": 6021,
+      "geoid": 6021,
       "fips": 21,
       "val": -0.346928596,
       "pctile": 19.6,
       "fillKey": 1
    },
    "Stanislaus": {
-      "id": 6099,
+      "geoid": 6099,
       "fips": 99,
       "val": -0.332766622,
       "pctile": 21.4,
       "fillKey": 1
    },
    "Modoc": {
-      "id": 6049,
+      "geoid": 6049,
       "fips": 49,
       "val": -0.319432378,
       "pctile": 23.2,
       "fillKey": 1
    },
    "San Bernardino": {
-      "id": 6071,
+      "geoid": 6071,
       "fips": 71,
       "val": -0.305078417,
       "pctile": 25,
       "fillKey": 2
    },
    "Tehama": {
-      "id": 6103,
+      "geoid": 6103,
       "fips": 103,
       "val": -0.251521111,
       "pctile": 26.8,
       "fillKey": 2
    },
    "Siskiyou": {
-      "id": 6093,
+      "geoid": 6093,
       "fips": 93,
       "val": -0.240384325,
       "pctile": 28.6,
       "fillKey": 2
    },
    "Riverside": {
-      "id": 6065,
+      "geoid": 6065,
       "fips": 65,
       "val": -0.239188313,
       "pctile": 30.4,
       "fillKey": 2
    },
    "San Joaquin": {
-      "id": 6077,
+      "geoid": 6077,
       "fips": 77,
       "val": -0.228269354,
       "pctile": 32.1,
       "fillKey": 2
    },
    "Plumas": {
-      "id": 6063,
+      "geoid": 6063,
       "fips": 63,
       "val": -0.201889664,
       "pctile": 33.9,
       "fillKey": 2
    },
    "Sutter": {
-      "id": 6101,
+      "geoid": 6101,
       "fips": 101,
       "val": -0.199794933,
       "pctile": 35.7,
       "fillKey": 2
    },
    "Butte": {
-      "id": 6007,
+      "geoid": 6007,
       "fips": 7,
       "val": -0.179988518,
       "pctile": 37.5,
       "fillKey": 2
    },
    "Trinity": {
-      "id": 6105,
+      "geoid": 6105,
       "fips": 105,
       "val": -0.178929225,
       "pctile": 39.3,
       "fillKey": 2
    },
    "Calaveras": {
-      "id": 6009,
+      "geoid": 6009,
       "fips": 9,
       "val": -0.166596413,
       "pctile": 41.1,
       "fillKey": 2
    },
    "Shasta": {
-      "id": 6089,
+      "geoid": 6089,
       "fips": 89,
       "val": -0.162630364,
       "pctile": 42.9,
       "fillKey": 2
    },
    "Mendocino": {
-      "id": 6045,
+      "geoid": 6045,
       "fips": 45,
       "val": -0.146031663,
       "pctile": 44.6,
       "fillKey": 2
    },
    "Lassen": {
-      "id": 6035,
+      "geoid": 6035,
       "fips": 35,
       "val": -0.142433211,
       "pctile": 46.4,
       "fillKey": 2
    },
    "Colusa": {
-      "id": 6011,
+      "geoid": 6011,
       "fips": 11,
       "val": -0.14033924,
       "pctile": 48.2,
       "fillKey": 2
    },
    "Los Angeles": {
-      "id": 6037,
+      "geoid": 6037,
       "fips": 37,
       "val": -0.136200652,
       "pctile": 50,
       "fillKey": 3
    },
    "Humboldt": {
-      "id": 6023,
+      "geoid": 6023,
       "fips": 23,
       "val": -0.108136304,
       "pctile": 51.8,
       "fillKey": 3
    },
    "Monterey": {
-      "id": 6053,
+      "geoid": 6053,
       "fips": 53,
       "val": -0.100687593,
       "pctile": 53.6,
       "fillKey": 3
    },
    "Tuolumne": {
-      "id": 6109,
+      "geoid": 6109,
       "fips": 109,
       "val": -0.034874897,
       "pctile": 55.4,
       "fillKey": 3
    },
    "Sacramento": {
-      "id": 6067,
+      "geoid": 6067,
       "fips": 67,
       "val": -0.033555888,
       "pctile": 57.1,
       "fillKey": 3
    },
    "Mariposa": {
-      "id": 6043,
+      "geoid": 6043,
       "fips": 43,
       "val": 0.032174937,
       "pctile": 58.9,
       "fillKey": 3
    },
    "Amador": {
-      "id": 6005,
+      "geoid": 6005,
       "fips": 5,
       "val": 0.038729507,
       "pctile": 60.7,
       "fillKey": 3
    },
    "Solano": {
-      "id": 6095,
+      "geoid": 6095,
       "fips": 95,
       "val": 0.070878103,
       "pctile": 62.5,
       "fillKey": 3
    },
    "San Diego": {
-      "id": 6073,
+      "geoid": 6073,
       "fips": 73,
       "val": 0.079403527,
       "pctile": 64.3,
       "fillKey": 3
    },
    "Yolo": {
-      "id": 6113,
+      "geoid": 6113,
       "fips": 113,
       "val": 0.101104878,
       "pctile": 66.1,
       "fillKey": 3
    },
    "San Benito": {
-      "id": 6069,
+      "geoid": 6069,
       "fips": 69,
       "val": 0.10390161,
       "pctile": 67.9,
       "fillKey": 3
    },
    "Santa Barbara": {
-      "id": 6083,
+      "geoid": 6083,
       "fips": 83,
       "val": 0.142170325,
       "pctile": 69.6,
       "fillKey": 3
    },
    "Nevada": {
-      "id": 6057,
+      "geoid": 6057,
       "fips": 57,
       "val": 0.1463864,
       "pctile": 71.4,
       "fillKey": 3
    },
    "Inyo": {
-      "id": 6027,
+      "geoid": 6027,
       "fips": 27,
       "val": 0.153106675,
       "pctile": 73.2,
       "fillKey": 3
    },
    "Orange": {
-      "id": 6059,
+      "geoid": 6059,
       "fips": 59,
       "val": 0.16351746,
       "pctile": 75,
       "fillKey": 4
    },
    "San Luis Obispo": {
-      "id": 6079,
+      "geoid": 6079,
       "fips": 79,
       "val": 0.191577435,
       "pctile": 76.8,
       "fillKey": 4
    },
    "Ventura": {
-      "id": 6111,
+      "geoid": 6111,
       "fips": 111,
       "val": 0.200653881,
       "pctile": 78.6,
       "fillKey": 4
    },
    "Santa Cruz": {
-      "id": 6087,
+      "geoid": 6087,
       "fips": 87,
       "val": 0.20532608,
       "pctile": 80.4,
       "fillKey": 4
    },
    "Sonoma": {
-      "id": 6097,
+      "geoid": 6097,
       "fips": 97,
       "val": 0.251190007,
       "pctile": 82.1,
       "fillKey": 4
    },
    "El Dorado": {
-      "id": 6017,
+      "geoid": 6017,
       "fips": 17,
       "val": 0.270853937,
       "pctile": 83.9,
       "fillKey": 4
    },
    "Napa": {
-      "id": 6055,
+      "geoid": 6055,
       "fips": 55,
       "val": 0.288500011,
       "pctile": 85.7,
       "fillKey": 4
    },
    "Placer": {
-      "id": 6061,
+      "geoid": 6061,
       "fips": 61,
       "val": 0.330775708,
       "pctile": 87.5,
       "fillKey": 4
    },
    "Alameda": {
-      "id": 6001,
+      "geoid": 6001,
       "fips": 1,
       "val": 0.351425141,
       "pctile": 89.3,
       "fillKey": 4
    },
    "Mono": {
-      "id": 6051,
+      "geoid": 6051,
       "fips": 51,
       "val": 0.392293811,
       "pctile": 91.1,
       "fillKey": 4
    },
    "Contra Costa": {
-      "id": 6013,
+      "geoid": 6013,
       "fips": 13,
       "val": 0.41845873,
       "pctile": 92.9,
       "fillKey": 4
    },
    "Santa Clara": {
-      "id": 6085,
+      "geoid": 6085,
       "fips": 85,
       "val": 0.465321749,
       "pctile": 94.6,
       "fillKey": 4
    },
    "San Francisco": {
-      "id": 6075,
+      "geoid": 6075,
       "fips": 75,
       "val": 0.470234066,
       "pctile": 96.4,
       "fillKey": 4
    },
    "San Mateo": {
-      "id": 6081,
+      "geoid": 6081,
       "fips": 81,
       "val": 0.594291508,
       "pctile": 98.2,
       "fillKey": 4
    },
    "Marin": {
-      "id": 6041,
+      "geoid": 6041,
       "fips": 41,
       "val": 0.746605456,
       "pctile": 100,
