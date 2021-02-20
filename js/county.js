@@ -17,15 +17,14 @@ if(param==2){
       scope: "subunits",
 	  fills: {
 		'defaultFill': 'grey',
-		'Below 5%': '#eff3ff',
-		'5% to 9%': '#bdd7e7',
-		'10% to 19%': '#6baed6',
-		'20% to 29%': '#3182bd',
-		'30% and above': '#08519c',
+		1: '#bdd7e7',
+		2: '#6baed6',
+		3: '#3182bd',
+		4: '#08519c',
 		'Insufficient data':'grey'
 	  },
-	  /*dataUrl:'https://healthpolicy.ucla.edu/chis/Jacobdocs/vizWork/DataMaps/tractMale.csv',
-	  dataType:'csv',*/
+	  dataUrl:'csv/county.csv',
+	  dataType:'csv',
       setProjection: function(element, options) {
          var projection = d3.geo.mercator()
            .center([-119.417931, 36.778259])
