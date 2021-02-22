@@ -3,7 +3,7 @@ url=window.location.search;
 var param=url.replace("?geo=","");
 
 if(param==5){
-	$("#geo2").prop("checked",true);
+	$("#geo5").prop("checked",true);
 	/*Initiate the map*/
     var map = new Datamap({
       element: document.getElementById('container'),
