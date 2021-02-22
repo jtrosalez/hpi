@@ -9,10 +9,9 @@ if(param==2){
       element: document.getElementById('container'),
       geographyConfig: {
         dataUrl: 'maps/caCounty.json',
-		/*popupTemplate: function(geography, data){
-			  return '<div class=hoverinfo><strong>' + data.tractName + '</strong><div><b>County: </b>' + data.countyName + '</div><div><b>Percent of Population Below Poverty, 2016: </b>' + data.povPer + '</div></div>';
-
-		}*/
+		popupTemplate: function(geography, data){
+			return '<div class=hoverinfo><b>'+ data.name + '<div><b>HPI Score: </b>' + data.pctile + '</div>';
+		}
       },
       scope: "subunits",
 	  fills: {
