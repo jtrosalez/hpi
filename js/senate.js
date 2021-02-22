@@ -14,7 +14,7 @@ if(param==5){
 
 		}*/
       },
-      scope: "subunits",
+      scope: "tl_2015_06_sldu",
 	  fills: {
 		'defaultFill': 'grey',
 		1: '#bdd7e7',
