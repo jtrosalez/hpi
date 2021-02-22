@@ -8,7 +8,7 @@ if(param==5){
     var map = new Datamap({
       element: document.getElementById('container'),
       geographyConfig: {
-        dataUrl: 'maps/caCounty.json',
+        dataUrl: 'maps/sldu.json',
 		/*popupTemplate: function(geography, data){
 			  return '<div class=hoverinfo><strong>' + data.tractName + '</strong><div><b>County: </b>' + data.countyName + '</div><div><b>Percent of Population Below Poverty, 2016: </b>' + data.povPer + '</div></div>';
 
