@@ -10,7 +10,7 @@ if(param==2){
       geographyConfig: {
         dataUrl: 'maps/caCounty.json',
 		popupTemplate: function(geography, data){
-			return '<div class=hoverinfo><b>'+ geography.name + '<div><b>HPI Score: </b>' + data.pctile + '</div>';
+			return '<div class=hoverinfo><b>'+ data.name + ' County<div><b>HPI Score: </b>' + data.pctile + '</div>';
 		}
       },
       scope: "subunits",
