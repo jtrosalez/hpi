@@ -14,7 +14,7 @@ if(param==2){
 
 		}*/
       },
-      scope: "CA_counties",
+      scope: "subunits",
 	  fills: {
 		'defaultFill': 'grey',
 		1: '#bdd7e7',
@@ -23,7 +23,7 @@ if(param==2){
 		4: '#08519c',
 		'Insufficient data':'grey'
 	  },
-	  dataUrl:'csv/county.json',
+	  dataUrl:'csv/county.csv',
 	  dataType:'json',
       setProjection: function(element, options) {
          var projection = d3.geo.mercator()
