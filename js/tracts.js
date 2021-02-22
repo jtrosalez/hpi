@@ -51,8 +51,6 @@ if(param==1 || param==""){
 		
     });
 	
-	map.legend({legendTitle:"Percent of Population Below Poverty, 2016 by Census Tracts"});
-	
 	/*d3.select("container").append("p")
 		.attr("id","attribution")
 		.html( "Basemap data &copy; <a href='http://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> and <a href='http://www.naturalearthdata.com/' target='_blank'>Natural Earth</a>." );*/
